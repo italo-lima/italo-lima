@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Here You will go to know me a little more. Welcome </p>
+<p align="left">Here You will get to know me a little more. Welcome :smiley: </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My name is Ítalo Lima, I have 6 years of experience as developer. I've been working as Frontend Developer and FullStack developer with ReactJs and NodeJs (my main stack).<br><br>I have two academic graduations. My first academic formation is Computer Technician at IFAL and the second as Information System at UFAL.<br><br>In my free time I play runner, soccer, volleyball and gym. I like to learn and read about technologies or development.</p>
+<p align="left">My name is Ítalo Lima, I have 6 years of experience as a developer. I've been working as Frontend Developer and FullStack developer with ReactJs and NodeJs (my main stack).<br><br>I have two academic graduations. My first academic graduation is as Computer Technician at IFAL and the second as Information System at UFAL.<br><br>In my free time I run, play soccer, volleyball and go to the gym. I like to learn and read about technologies or development.</p>
 
 ###
 
